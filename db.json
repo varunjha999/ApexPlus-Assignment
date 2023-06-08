@@ -1,0 +1,54 @@
+{
+  "scenario": [
+    {
+      "scenarioName": "Varun",
+      "scenarioTime": "2",
+      "scenarioCar": [],
+      "id": 1
+    },
+    {
+      "scenarioName": "Shubh",
+      "scenarioTime": "6",
+      "scenarioCar": [],
+      "id": 2
+    },
+    {
+      "scenarioName": "Komal",
+      "scenarioTime": "15",
+      "scenarioCar": [],
+      "id": 3
+    },
+    {
+      "scenarioName": "Dhruv",
+      "scenarioTime": "23",
+      "scenarioCar": [],
+      "id": 4
+    },
+    {
+      "scenarioName": "Payal",
+      "scenarioTime": "12",
+      "scenarioCar": [],
+      "id": 5
+    }
+  ],
+  "scenarioCar": [
+    {
+      "scenarioName": "kapil",
+      "vehicleName": "farari",
+      "speed": "90",
+      "positionX": "120560",
+      "positionY": "670",
+      "direction": "Downwards",
+      "id": 3
+    },
+    {
+      "scenarioName": "bhanu",
+      "vehicleName": "bus",
+      "speed": "40",
+      "positionX": "560",
+      "positionY": "12",
+      "direction": "Towards",
+      "id": 4
+    }
+  ]
+}

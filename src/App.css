@@ -1,0 +1,27 @@
+.active{
+    background-color: #eee9e9c2;
+}
+.navlink-head{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100vh;
+    background-color: #a9a9a9a3;
+}
+.navlink{
+    color: black;
+    padding: 0.5rem;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+}
+.layout{
+    display: flex;
+}
+.layout1{
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 0;
+}
+
