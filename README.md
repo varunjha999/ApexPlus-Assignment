@@ -37,14 +37,11 @@ if something error happen try youself
 
  1.  create a proper navbar using react-router 
 
- 2.  worked on add schenarion section first create a proper ui which you are given in documentation and then create a json server and 
+ 2.  worked on add scenario section first create a proper ui which you are given  in    documentation and then create a json server and 
      post this form data to db.json file using axios and perform all the task in this section like add data, reset form data and go back to previous page
 
 3.   worked on all schenario create a proper ui which you are given in documentation and then retrieve tha json data using axios and
      perform all the operation in this section like crud operation and all of things.
 
 4.  worked on add a vehicla section create a proper ui which you are given in documentation 
-<<<<<<< HEAD
-=======
 
->>>>>>> 684989ddc23270df96b825c6fdf61fbb1f56c902
